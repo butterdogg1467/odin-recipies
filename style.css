@@ -1,7 +1,8 @@
 .maintitle {
     color:darkgoldenrod;
-    font-weight: 200;
+    font-weight: bolder;
     text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 body {
@@ -10,4 +11,20 @@ body {
 
 .link {
     color:rgb(236, 173, 13);
+    font-weight: bolder;
+    text-decoration: none;
 }   
+
+.button {
+    background-color:black;
+    border-radius: 2000px;
+    border-color: goldenrod;
+    block-size: 40px;
+    width: 75%;
+    display: inline-block;
+}
+
+.buttonlist {
+    list-style-type: none;
+    align-self: center;
+}
