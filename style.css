@@ -1,0 +1,13 @@
+.maintitle {
+    color:darkgoldenrod;
+    font-weight: 200;
+    text-align: center;
+}
+
+body {
+    background-color:black;
+}
+
+.link {
+    color:rgb(236, 173, 13);
+}   
