@@ -28,3 +28,20 @@ body {
     list-style-type: none;
     align-self: center;
 }
+
+.h2title {
+    color: goldenrod;
+    text-align: center;
+    
+}
+
+div {
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
