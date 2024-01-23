@@ -35,6 +35,18 @@ body {
     
 }
 
+.h3title {
+    color: goldenrod;
+    text-align: center;
+    background: black;
+    padding: 1px;
+    margin: 20px auto;
+    max-width: fit-content;
+    border-radius: 20px solid #2055DA;
+   
+    
+}
+
 div {
     color:white;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
